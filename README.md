@@ -1,3 +1,6 @@
+# Battery
+A script to display battery percentage in the terminal/tmux
+
 Original documentation can be found at [Goles/Battery](https://github.com/Goles/Battery).
 
-My fork contains a few changes to the original script, namely instead of a lightning bolt being shown.
+My fork contains a few changes to the original script, namely the lighting bolt to indicate a charged state has been replaced with '(charging)' and the brackets surrounding the charge percentage are no longer there. The percentages for the colors have also been tweaked, 100%-70% for green, 69%-40% for yellow, 39%-0% for red.
