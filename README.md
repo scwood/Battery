@@ -1,4 +1,7 @@
 # Battery
+
+<img src='https://cloud.githubusercontent.com/assets/9126138/12634456/d5463e68-c536-11e5-8be6-3207a478c65a.png'>
+
 A script to display battery percentage in the terminal/tmux
 
 Original documentation can be found at [Goles/Battery](https://github.com/Goles/Battery).
